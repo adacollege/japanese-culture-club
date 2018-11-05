@@ -22,3 +22,7 @@ We meet every Wednesday from 14:45 to 15:45 in Genesis and conduct a range of ac
 ## Who are the JCC founders?
 The JCC was founded on 31st October 2018 🎃 by:
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars1.githubusercontent.com/u/31309953?s=460&v=4" width="100px;"/><br /><sub><b>Alex Hemming</b></sub>](https://github.com/alexhemming) | [<img src="https://avatars1.githubusercontent.com/u/42802938?s=460&v=4" width="100px;"/><br /><sub><b>Abeerirfan</b></sub>](https://github.com/Abeerirfan) | [<img src="https://avatars2.githubusercontent.com/u/42770463?s=460&v=4" width="100px;"/><br /><sub><b>YoniWilliams</b></sub>](https://github.com/YoniWilliams) | [<img src="https://avatars3.githubusercontent.com/u/42770575?s=460&v=4" width="100px;"/><br /><sub><b>Muhammad Arrasyid</b></sub>](https://github.com/MuhammadArr01) |
+| :---: | :---: | :---: | :---: | 
