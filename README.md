@@ -1,4 +1,4 @@
-# Welcome to the Japanese Culture Club (JCC) repo!
+# Welcome to the Japanese Culture Club (JCC) repo! 🗾🌸
 This is a repo to collect all materials and resources related to Ada's Japanese Culture Club (JCC). You are invited to fork this repo and use our materials-- please let us know what you do with them and how it goes!
 
 ## What is the JCC?
@@ -18,3 +18,7 @@ We meet every Wednesday from 14:45 to 15:45 in Genesis and conduct a range of ac
 - Cooking and eating Japanese cuisine
 - Visiting Japanese culture exhibits & businesses
 - Learning about Japanese music and dance
+
+## Who are the JCC founders?
+The JCC was founded on 31st October 2018 🎃 by:
+
