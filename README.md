@@ -29,4 +29,9 @@ The JCC was founded on 31st October 2018 🎃 by:
 | :---: | :---: | :---: | :---: | :---: | 
 
 ## Who are the JCC committee?
-We will be voting on committee roles on Wed 14/11/18
+We will be voting on committee roles on Wed 14/11/18. The following positions are available:
+- President
+- Vice president
+- Secretary
+- Events Coordinator
+- Inclusion Officer
