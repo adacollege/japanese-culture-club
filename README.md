@@ -31,7 +31,12 @@ The JCC was founded on 31st October 2018 🎃 by:
 ## Who are the JCC committee?
 We will be voting on committee roles on Wed 14/11/18. The following positions are available:
 - President
+The President is ultimately responsible for the club. The role of the President is to oversee the running of the club and its administration. This involves running club meetings and ensuring effective management of the committee. 
 - Vice president
+The Vice President is responsible for assisting the President to fulfill his/her responsibilities for the governance and success of the club.
 - Secretary
+The Secretary is responsible for the documentation and communication of the activities of the Committee and primarily responsible for maintaining the JCC GitHub repo.
 - Events Coordinator
+The Events Coordinator is responsible for organising club events, understanding the requirements for the events, planning events with attention to financial and time constraints.
 - Inclusion Officer
+The Inclusion Officer is responsible for ensuring that members are following the JCC code of conduct and to act as the contact point for any members who have any concerns or issues within the club.
