@@ -27,3 +27,6 @@ The JCC was founded on 31st October 2018 🎃 by:
 <!-- prettier-ignore -->
 | [<img src="https://avatars1.githubusercontent.com/u/31309953?s=460&v=4" width="100px;"/><br /><sub><b>Alex Hemming</b></sub>](https://github.com/alexhemming) | [<img src="https://avatars1.githubusercontent.com/u/42802938?s=460&v=4" width="100px;"/><br /><sub><b>Abeerirfan</b></sub>](https://github.com/Abeerirfan) | [<img src="https://avatars2.githubusercontent.com/u/42770463?s=460&v=4" width="100px;"/><br /><sub><b>YoniWilliams</b></sub>](https://github.com/YoniWilliams) | [<img src="https://avatars3.githubusercontent.com/u/42770575?s=460&v=4" width="100px;"/><br /><sub><b>Muhammad Arrasyid</b></sub>](https://github.com/MuhammadArr01) | [<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/microsoft/153/busts-in-silhouette_1f465.png" width="100px;"/><br /><sub><b>More TBA</b></sub>]() | 
 | :---: | :---: | :---: | :---: | :---: | 
+
+## Who are the JCC committee?
+We will be voting on committee roles on Wed 14/11/18
