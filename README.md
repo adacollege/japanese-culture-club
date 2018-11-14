@@ -30,9 +30,9 @@ The JCC was founded on 31st October 2018 🎃 by:
 | [<img src="https://avatars3.githubusercontent.com/u/42807431?s=460&v=4" width="100px;"/><br /><sub><b>Anisa Abduraham</b></sub>](https://github.com/anisaabdurahman) | [<img src="https://avatars2.githubusercontent.com/u/43068487?s=460&v=4" width="100px;"/><br /><sub><b>Calvin Xu</b></sub>](https://github.com/koulze) | [<img src="https://avatars2.githubusercontent.com/u/42808411?s=460&v=4" width="100px;"/><br /><sub><b>Farah Ait</b></sub>](https://github.com/farahait) | [<img src="https://avatars0.githubusercontent.com/u/42809002?s=460&v=4" width="100px;"/><br /><sub><b>Daniel Nelson</b></sub>](https://github.com/dani3l16) | [<img src="https://avatars0.githubusercontent.com/u/42803065?s=460&v=4" width="100px;"/><br /><sub><b>Wares Islam</b></sub>](https://github.com/LowPing001) |
  [<img src="https://avatars0.githubusercontent.com/u/42803029?s=460&v=4" width="100px;"/><br /><sub><b>Barry Chimonides</b></sub>](https://github.com/BarryChim) 
 ## Who are the JCC committee?
-We will be voting on committee roles on Wed 14/11/18. The following positions are available:
-- **President** - ultimately responsible for the club. The role of the President is to oversee the running of the club and its administration. This involves running club meetings and ensuring effective management of the committee. 
-- **Vice president** - responsible for assisting the President to fulfill his/her responsibilities for the governance and success of the club.
-- **Secretary** - responsible for the documentation and communication of the activities of the Committee and primarily responsible for maintaining the JCC GitHub repo.
-- **Events Coordinator** - responsible for organising club events, understanding the requirements for the events, planning events with attention to financial and time constraints.
-- **Inclusion Officer** - responsible for ensuring that members are following the JCC code of conduct and to act as the contact point for any members who have any concerns or issues within the club.
+The members of the JCC committee as voted in on the 14/11/2018 are:
+- **President, Latif** - ultimately responsible for the club. The role of the President is to oversee the running of the club and its administration. This involves running club meetings and ensuring effective management of the committee. 
+- **Vice president, Abeer Irfan** - responsible for assisting the President to fulfill his/her responsibilities for the governance and success of the club.
+- **Secretary, Kien Nguyen** - responsible for the documentation and communication of the activities of the Committee and primarily responsible for maintaining the JCC GitHub repo.
+- **Events Coordinator, Calvin Xu** - responsible for organising club events, understanding the requirements for the events, planning events with attention to financial and time constraints.
+- **Inclusion Officer, Muhammad Arrasyid** - responsible for ensuring that members are following the JCC code of conduct and to act as the contact point for any members who have any concerns or issues within the club.
