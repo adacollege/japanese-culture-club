@@ -7,6 +7,18 @@ There is an online craft trend to build pokeball terrariums, that show what the 
 So we are going to make our own!
 
  ![Picachu-yes](https://media.giphy.com/media/BfFQeCJSNJcM8/giphy.gif)
+ 
+## Equipment Needed
+* Mini pokemon figures 
+* Clear plastic acrylic fillable ball ornament
+* Astroturf samples
+* Modelling foliage
+* Hot glue gun
+* Shells
+* Small pebbles
+* Paint
+* Nail file
+* Black electrical tape
 
 ## Videos
 
