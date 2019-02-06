@@ -1,4 +1,4 @@
-# Making Sushi
+# Making Sushi (and Onigiri)
 
  ![Sushi](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sushi_platter.jpg/330px-Sushi_platter.jpg)
 
@@ -14,6 +14,12 @@ https://en.wikipedia.org/wiki/Sushi
 * Rice Vinegar
 * Soy Sauce
 * Wasabi
+
+## Watching (while nomming)
+### Jiro Dreams of Sushi - Trailer
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=I1UDS2kgqY8
+" target="_blank"><img src="http://img.youtube.com/vi/I1UDS2kgqY8/0.jpg" 
+alt="Jiro Dreams of Sushi - Trailer" width="240" height="180" border="10" /></a>
 
 ## Videos
 
