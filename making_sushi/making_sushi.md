@@ -26,3 +26,8 @@ alt="How To Make Simple And Delicious Sushi(1/2)" width="240" height="180" borde
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_hiPkag4DmY
 " target="_blank"><img src="http://img.youtube.com/vi/_hiPkag4DmY/0.jpg" 
 alt="How To Make Simple And Delicious Sushi(2/2)" width="240" height="180" border="10" /></a>
+
+### How to make Onigiri (Japanese Rice Balls) RECIPE - おにぎりの作り方 by TabiEats
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Uug0oNO-S1U
+" target="_blank"><img src="http://img.youtube.com/vi/Uug0oNO-S1U/0.jpg" 
+alt="How to make Onigiri (Japanese Rice Balls) RECIPE - おにぎりの作り方" width="240" height="180" border="10" /></a>
