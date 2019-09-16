@@ -31,8 +31,4 @@ The JCC was founded on 31st October 2018 🎃 by:
  [<img src="https://avatars0.githubusercontent.com/u/42803029?s=460&v=4" width="100px;"/><br /><sub><b>Barry Chimonides</b></sub>](https://github.com/BarryChim) 
 ## Who are the JCC committee?
 The members of the JCC committee as voted in on the 14/11/2018 are:
-- **President, Latif** - ultimately responsible for the club. The role of the President is to oversee the running of the club and its administration. This involves running club meetings and ensuring effective management of the committee. 
-- **Vice president, Abeer Irfan** - responsible for assisting the President to fulfill his/her responsibilities for the governance and success of the club.
-- **Secretary, Kien Nguyen** - responsible for the documentation and communication of the activities of the Committee and primarily responsible for maintaining the JCC GitHub repo.
-- **Events Coordinator, Calvin Xu** - responsible for organising club events, understanding the requirements for the events, planning events with attention to financial and time constraints.
-- **Inclusion Officer, Muhammad Arrasyid** - responsible for ensuring that members are following the JCC code of conduct and to act as the contact point for any members who have any concerns or issues within the club.
+- **President, Abeer** - ultimately responsible for the club. The role of the President is to oversee the running of the club and its administration. This involves running club meetings and ensuring effective management of the committee. 
